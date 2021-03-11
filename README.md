@@ -1,0 +1,1 @@
+# NiceHash_PayoutGraph
